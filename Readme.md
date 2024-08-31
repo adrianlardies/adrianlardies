@@ -1,4 +1,3 @@
-
 <img src="https://github.com/adrianlardies/adrian-lardies-profile/blob/master/hello.svg"/>
 
 <h1 align="center">Hola 👋 soy Adrián, desarrollador Python especializado en Análisis e Ingeniería de Datos</h1>
