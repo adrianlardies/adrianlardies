@@ -1,4 +1,4 @@
-<img src="https://github.com/adrianlardies/adrian-lardies-profile/blob/master/hello.svg"/>
+<img src="https://github.com/adrianlardies/adrianlardies/blob/master/hello.svg"/>
 
 <h1 align="center">Hola 👋 soy Adrián, Desarrollador Python especializado en Análisis e Ingeniería de Datos</h1>
 
@@ -27,13 +27,13 @@ about_me = {
 
 <br>
 
-* <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrian-lardies-profile/blob/master/linkedin.svg" />&nbsp;&nbsp;
+* <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrianlardiese/blob/master/linkedin.svg" />&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adrianlardies/">LinkedIn</a>
 
-* <img align="center" alt="Correo" width="46px" src="https://github.com/adrianlardies/adrian-lardies-profile/blob/master/mail.svg" />&nbsp;&nbsp;
+* <img align="center" alt="Correo" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/master/mail.svg" />&nbsp;&nbsp;
   <a href="mailto:adrian.lardies@gmail.com">Correo electrónico</a>
 
-* <img align="center" alt="Currículum" width="46px" src="https://github.com/adrianlardies/adrian-lardies-profile/blob/master/cv.svg" />&nbsp;&nbsp;
+* <img align="center" alt="Currículum" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/master/cv.svg" />&nbsp;&nbsp;
   <a href="https://github.com/adrianlardies/adrian-lardies-profile/raw/master/cv_adrian.pdf">Currículum Vitae</a>
 
 <br>
