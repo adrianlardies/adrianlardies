@@ -42,6 +42,6 @@ about_me = {
 
 <br>
 
-* [Space Invaders 2.0 con Python / Pygame](https://github.com/adrianlardies/space-invaders-python-pygame "App del clásico juego Space Invaders con un toque fresco y renovado")
+* [Space Invaders 2.0 con Python](https://github.com/adrianlardies/space-invaders-python-pygame "App del clásico juego Space Invaders con un toque fresco y renovado")
 
 * [¿Quieres ver el resto?](https://github.com/adrianlardies?tab=repositories "Repositorio de GitHub")
