@@ -41,7 +41,6 @@ about_me = {
 <br>
 
 ## Algunos de mis proyectos
-
 <br>
 
 * [Space Invaders 2.0](https://github.com/adrianlardies/Space-Invaders-en-Python-con-Pygame "App del clásico juego Space Invaders con un toque fresco y renovado")
