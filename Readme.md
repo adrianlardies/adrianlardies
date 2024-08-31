@@ -1,6 +1,6 @@
 <img src="https://github.com/adrianlardies/adrian-lardies-profile/blob/master/hello.svg"/>
 
-<h1 align="center">Hola 👋 soy Adrián, desarrollador Python especializado en Análisis e Ingeniería de Datos</h1>
+<h1 align="center">Hola 👋 soy Adrián, Desarrollador Python especializado en Análisis e Ingeniería de Datos</h1>
 
 ___
 
@@ -26,8 +26,6 @@ about_me = {
 
 ## ¿Quieres contactar conmigo?
 
-<br>
-
 * <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrian-lardies-profile/blob/master/linkedin.svg" />&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adrianlardies/">LinkedIn</a>
 
@@ -37,7 +35,6 @@ about_me = {
 * <img align="center" alt="Currículum" width="46px" src="https://github.com/adrianlardies/adrian-lardies-profile/blob/master/cv.svg" />&nbsp;&nbsp;
   <a href="https://github.com/adrianlardies/adrian-lardies-profile/raw/master/cv_adrian.pdf">Currículum Vitae</a>
 
-<br>
 
 ## Algunos de mis proyectos
 
