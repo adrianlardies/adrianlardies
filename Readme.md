@@ -25,8 +25,6 @@ about_me = {
 
 ## ¿Quieres contactar conmigo?
 
-<br>
-
 * <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrianlardies/blob/main/linkedin.svg" />&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adrianlardies/">LinkedIn</a>
 
