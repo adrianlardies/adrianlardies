@@ -33,7 +33,7 @@ about_me = {
 * <img align="center" alt="Correo" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/master/mail.svg" />&nbsp;&nbsp;
   <a href="mailto:adrian.lardies@gmail.com">Correo electrónico</a>
 
-* <img align="center" alt="Currículum" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/master/cv.svg" />&nbsp;&nbsp;
+* <img align="center" alt="Currículum" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/master/icon_cv.png" />&nbsp;&nbsp;
   <a href="https://github.com/adrianlardies/adrian-lardies-profile/raw/master/cv_adrian.pdf">Currículum Vitae</a>
 
 <br>
