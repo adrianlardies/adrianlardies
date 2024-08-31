@@ -44,4 +44,6 @@ about_me = {
 
 * [Space Invaders 2.0 con Python](https://github.com/adrianlardies/space-invaders-python-pygame "App del clásico juego Space Invaders con un toque fresco y renovado")
 
+* [Escape Room interactivo](https://github.com/adrianlardies/escape-room-python "Juego de aventuras de texto envuelto en misterio. ¡Finalízalo antes de que se agote el tiempo!")
+
 * [¿Quieres ver el resto?](https://github.com/adrianlardies?tab=repositories "Repositorio de GitHub")
