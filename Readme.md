@@ -2,10 +2,11 @@
 
 <h1 align="center">Hola 👋 soy Adrián, Desarrollador Python especializado en Análisis e Ingeniería de Datos</h1>
 
-
 <br>
 
 ## ¿Quieres saber un poco más sobre mí?
+
+<br>
 
 ```python
 about_me = {
@@ -20,10 +21,11 @@ about_me = {
     "devops_cloud": ["Jenkins", "Docker", "Kubernetes", "AWS", "Azure"],
 }
 ```
-
-</br>
+<br>
 
 ## ¿Quieres contactar conmigo?
+
+<br>
 
 * <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrianlardies/blob/main/linkedin.svg" />&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adrianlardies/">LinkedIn</a>
@@ -37,6 +39,8 @@ about_me = {
 <br>
 
 ## Algunos de mis proyectos
+
+<br>
 
 * [Space Invaders 2.0](https://github.com/adrianlardies/Space-Invaders-en-Python-con-Pygame "App del clásico juego Space Invaders con un toque fresco y renovado")
 
