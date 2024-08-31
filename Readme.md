@@ -7,6 +7,8 @@
 
 ## ¿Quieres saber un poco más sobre mí?
 
+<br>
+
 ```python
 about_me = {
     "pronouns": "he/him",
@@ -25,6 +27,8 @@ about_me = {
 
 ## ¿Quieres contactar conmigo?
 
+<br>
+
 * <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrianlardies/blob/main/linkedin.svg" />&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adrianlardies/">LinkedIn</a>
 
@@ -37,6 +41,8 @@ about_me = {
 <br>
 
 ## Algunos de mis proyectos
+
+<br>
 
 * [Space Invaders 2.0](https://github.com/adrianlardies/Space-Invaders-en-Python-con-Pygame "App del clásico juego Space Invaders con un toque fresco y renovado")
 
