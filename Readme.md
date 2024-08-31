@@ -2,7 +2,6 @@
 
 <h1 align="center">Hola 👋 soy Adrián, Desarrollador Python especializado en Análisis e Ingeniería de Datos</h1>
 
-___
 
 <br>
 
