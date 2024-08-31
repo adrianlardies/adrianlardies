@@ -27,7 +27,7 @@ about_me = {
 
 <br>
 
-* <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrianlardiese/blob/master/linkedin.svg" />&nbsp;&nbsp;
+* <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrianlardies/blob/master/linkedin.svg" />&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adrianlardies/">LinkedIn</a>
 
 * <img align="center" alt="Correo" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/master/mail.svg" />&nbsp;&nbsp;
