@@ -10,7 +10,6 @@
 
 ```python
 about_me = {
-    "pronouns": "he/him",
     "code": ["Python (Django)", "R", "JavaScript (Angular)", "PHP"],
     "libraries_frameworks": {
         "data_science": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Spark"],
