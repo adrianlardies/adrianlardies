@@ -1,6 +1,6 @@
 <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg"/>
 
-<h1 align="center">Hola 👋 soy Adrián, Desarrollador Python especializado en Análisis e Ingeniería de Datos</h1>
+<h1 align="center">Hola 👋 soy Adrián, Desarrollador Python especializado en Análisis y Ciencia de Datos</h1>
 
 <br>
 
