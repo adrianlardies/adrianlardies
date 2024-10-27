@@ -52,6 +52,9 @@ about_me = {
 - **[Space Invaders 2.0 with Python](https://github.com/adrianlardies/space-invaders-python-pygame "App of the classic Space Invaders game with a fresh and renewed look")**  
   A classic Space Invaders game with a fresh, updated look using Python and Pygame.
 
+- **[Feelms - Predict by Emotion](https://github.com/adrianlardies/feelms_predict_by_emotion "A movie recommendation app based on user emotions")**  
+  An emotion-based movie recommendation app built with Streamlit and AWS, utilizing collaborative filtering and machine learning for personalized suggestions.
+
 - **[Interactive Escape Room](https://github.com/adrianlardies/escape-room-python "A text adventure wrapped in mystery")**  
   A text adventure game where you must solve puzzles to escape before time runs out.
 
