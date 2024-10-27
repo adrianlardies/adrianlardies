@@ -12,11 +12,11 @@
 about_me = {
     "code": ["Python (Django)", "R", "JavaScript (Angular)", "PHP"],
     "libraries_frameworks": {
-        "data_science": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Spark"],
+        "data_science": ["pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Spark"],
     },
-    "tools": ["Jupyter", "PowerBI", "Tableau", "Hadoop"],
+    "tools": ["Jupyter", "Power BI", "Tableau", "Hadoop"],
     "databases": ["MySQL", "PostgreSQL", "MongoDB"],
-    "machine_learning": ["SciKit-Learn", "Statsmodels"],
+    "machine_learning": ["Scikit-Learn", "Statsmodels"],
     "devops_cloud": ["Jenkins", "Docker", "Kubernetes", "AWS", "Azure"],
 }
 ```
