@@ -22,11 +22,15 @@ about_me = {
 
 ## Want to get in touch?
 
+<br>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/adrianlardies/"><img align="center" alt="LinkedIn" width="40px" src="https://github.com/adrianlardies/adrianlardies/blob/main/linkedin.svg" /></a>&nbsp;&nbsp;
     <a href="mailto:adrian.lardies@gmail.com"><img align="center" alt="Correo" width="42px" src="https://github.com/adrianlardies/adrianlardies/blob/main/mail.svg" /></a>&nbsp;&nbsp;
     <a href="https://adrianlardies.github.io/portfolio/"><img align="center" alt="Portafolio" width="42px" src="https://github.com/adrianlardies/adrianlardies/blob/main/icon_cv.png" /></a>
 </p>
+
+<br>
 
 ## Some of my projects
 
