@@ -1,6 +1,6 @@
 <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg"/>
 
-<h1 align="center">👋 Python Developer focused on Data Analysis and Data Science</h1>
+<h1 align="center">👋🏻 Python Developer focused on Data Analysis and Data Science</h1>
 
 <br>
 
@@ -52,9 +52,13 @@ about_me = {
 
 <br>
 
+## GitHub Statistics
+
+<br>
+
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=adrianlardies&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Adrián" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlardies&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=adrianlardies&show_icons=true&theme=default" alt="GitHub Stats of Adrian" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlardies&layout=compact&theme=default" alt="Most Used Languages" />
 </p>
 
 <br>
