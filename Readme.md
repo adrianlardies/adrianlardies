@@ -6,7 +6,7 @@
 
 <p align="center">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=adrianlardies&show_icons=true&theme=default" alt="GitHub Stats of Adrian" />
-</p
+</p>
 
 <br>
 
