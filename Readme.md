@@ -27,7 +27,7 @@ about_me = {
     "tools": ["Jupyter", "Power BI", "Tableau", "Hadoop"],
     "databases": ["MySQL", "PostgreSQL", "MongoDB"],
     "machine_learning": ["Scikit-Learn", "Statsmodels"],
-    "devops_cloud": ["Jenkins", "Docker", "Kubernetes", "AWS", "Azure"],
+    "devops_cloud": ["Jenkins", "Docker", "Kubernetes", "AWS", "Azure"]
 }
 ```
 
