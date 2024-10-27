@@ -19,6 +19,8 @@ about_me = {
 }
 ```
 
+<br>
+
 ## Want to get in touch?
 
 <br>
@@ -29,7 +31,11 @@ about_me = {
     <a href="https://adrianlardies.github.io/portfolio/"><img align="center" alt="Portafolio" width="42px" src="https://github.com/adrianlardies/adrianlardies/blob/main/icon_cv.png" /></a>
 </p>
 
+<br>
+
 ## Some of my projects
+
+<br>
 
 - **[Space Invaders 2.0 with Python](https://github.com/adrianlardies/space-invaders-python-pygame "App of the classic Space Invaders game with a fresh and renewed look")**  
   A classic Space Invaders game with a fresh, updated look using Python and Pygame.
@@ -40,10 +46,15 @@ about_me = {
 - **[Want to see more?](https://github.com/adrianlardies?tab=repositories "GitHub repository")**  
   Explore the rest of my projects and experiments on my GitHub profile.
 
+<br>
 
 ## Estadísticas de GitHub
+
+<br>
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=adrianlardies&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Adrián" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlardies&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
+
+<br>
