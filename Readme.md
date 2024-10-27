@@ -30,17 +30,17 @@ about_me = {
     <a href="https://adrianlardies.github.io/portfolio/"><img align="center" alt="Portafolio" width="42px" src="https://github.com/adrianlardies/adrianlardies/blob/main/icon_cv.png" /></a>
 </p>
 
-<br>
-
 ## Some of my projects
 
-<br>
+- **[Space Invaders 2.0 with Python](https://github.com/adrianlardies/space-invaders-python-pygame "App of the classic Space Invaders game with a fresh and renewed look")**  
+  A classic Space Invaders game with a fresh, updated look using Python and Pygame.
 
-* [Space Invaders 2.0 con Python](https://github.com/adrianlardies/space-invaders-python-pygame "App of the classic Space Invaders game with a fresh and renewed look")
+- **[Interactive Escape Room](https://github.com/adrianlardies/escape-room-python "A text adventure wrapped in mystery")**  
+  A text adventure game where you must solve puzzles to escape before time runs out.
 
-* [Escape Room interactivo](https://github.com/adrianlardies/escape-room-python "A text adventure game wrapped in mystery - Finish it before time runs out!")
+- **[Want to see more?](https://github.com/adrianlardies?tab=repositories "GitHub repository")**  
+  Explore the rest of my projects and experiments on my GitHub profile.
 
-* [¿Quieres ver el resto?](https://github.com/adrianlardies?tab=repositories "GitHub repository")
 
 ## Estadísticas de GitHub
 
