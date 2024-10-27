@@ -1,4 +1,6 @@
-<img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg"/>
+<p align="center">
+    <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg" width="700px"/>
+</p>
 
 <h1 align="center">👋🏻 Python Developer focused on Data Analysis and Data Science</h1>
 
