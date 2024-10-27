@@ -10,10 +10,8 @@
 
 ```python
 about_me = {
-    "code": ["Python (Django)", "R", "JavaScript (Angular)", "PHP"],
-    "libraries_frameworks": {
-        "data_science": ["pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Spark"],
-    },
+    "code": ["Python 🐍", "R 📊", "JavaScript (Angular) 💻", "PHP 🐘"],
+    "data_science": ["pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Spark"],
     "tools": ["Jupyter", "Power BI", "Tableau", "Hadoop"],
     "databases": ["MySQL", "PostgreSQL", "MongoDB"],
     "machine_learning": ["Scikit-Learn", "Statsmodels"],
