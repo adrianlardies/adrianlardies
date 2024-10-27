@@ -2,7 +2,7 @@
     <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg" width="700px"/>
 </p>
 
-<h1 align="center">👋🏻 Python Developer focused on Data Analysis and Data Science</h1>
+<h2 align="center">👋🏻 Python Developer focused on Data Analysis and Data Science</h1>
 
 <p align="center">
     Passionate about uncovering insights from data and building meaningful data-driven solutions. Currently, I specialize in Data Science and Machine Learning with Python. I'm always eager to learn and explore new technologies.
@@ -16,7 +16,7 @@
 
 <br>
 
-## 💡 Want to know a bit more about me?
+### 💡 Want to know a bit more about me?
 
 <br>
 
@@ -33,7 +33,7 @@ about_me = {
 
 <br>
 
-## ✉️ Want to get in touch?
+### ✉️ Want to get in touch?
 
 <br>
 
@@ -45,7 +45,7 @@ about_me = {
 
 <br>
 
-## 💻 Some of my projects
+### 💻 Some of my projects
 
 <br>
 
