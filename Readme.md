@@ -1,10 +1,10 @@
 <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg"/>
 
-<h1 align="center">Hola 👋 soy Adrián, Desarrollador Python especializado en Análisis y Ciencia de Datos</h1>
+<h1 align="center">Hi! 👋 I'm Adrián, a Python Developer specializing in Data Analysis and Data Science</h1>
 
 <br>
 
-## ¿Quieres saber un poco más sobre mí?
+## Want to know a bit more about me?
 
 <br>
 
@@ -22,7 +22,7 @@ about_me = {
 ```
 <br>
 
-## ¿Quieres contactar conmigo?
+## Want to get in touch?
 
 <br>
 
@@ -30,19 +30,19 @@ about_me = {
   <a href="https://www.linkedin.com/in/adrianlardies/">LinkedIn</a>
 
 * <img align="center" alt="Correo" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/main/mail.svg" />&nbsp;&nbsp;
-  <a href="mailto:adrian.lardies@gmail.com">Correo electrónico</a>
+  <a href="mailto:adrian.lardies@gmail.com">Email</a>
 
 * <img align="center" alt="Currículum" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/main/icon_cv.png" />&nbsp;&nbsp;
   <a href="https://adrianlardies.github.io/portfolio/">Portfolio</a>
 
 <br>
 
-## Algunos de mis proyectos
+## Some of my projects
 
 <br>
 
-* [Space Invaders 2.0 con Python](https://github.com/adrianlardies/space-invaders-python-pygame "App del clásico juego Space Invaders con un toque fresco y renovado")
+* [Space Invaders 2.0 con Python](https://github.com/adrianlardies/space-invaders-python-pygame "App of the classic Space Invaders game with a fresh and renewed look")
 
-* [Escape Room interactivo](https://github.com/adrianlardies/escape-room-python "Juego de aventuras de texto envuelto en misterio. ¡Finalízalo antes de que se agote el tiempo!")
+* [Escape Room interactivo](https://github.com/adrianlardies/escape-room-python "A text adventure game wrapped in mystery - Finish it before time runs out!")
 
-* [¿Quieres ver el resto?](https://github.com/adrianlardies?tab=repositories "Repositorio de GitHub")
+* [¿Quieres ver el resto?](https://github.com/adrianlardies?tab=repositories "GitHub repository")
