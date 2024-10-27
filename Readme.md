@@ -41,3 +41,10 @@ about_me = {
 * [Escape Room interactivo](https://github.com/adrianlardies/escape-room-python "A text adventure game wrapped in mystery - Finish it before time runs out!")
 
 * [¿Quieres ver el resto?](https://github.com/adrianlardies?tab=repositories "GitHub repository")
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=adrianlardies&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Adrián" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlardies&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
