@@ -18,7 +18,6 @@ about_me = {
     "devops_cloud": ["Jenkins", "Docker", "Kubernetes", "AWS", "Azure"],
 }
 ```
-<br>
 
 ## Want to get in touch?
 
