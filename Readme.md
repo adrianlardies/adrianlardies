@@ -24,14 +24,11 @@ about_me = {
 
 <br>
 
-* <img align="center" alt="LinkedIn" width="44px" src="https://github.com/adrianlardies/adrianlardies/blob/main/linkedin.svg" />&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adrianlardies/">LinkedIn</a>
-
-* <img align="center" alt="Correo" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/main/mail.svg" />&nbsp;&nbsp;
-  <a href="mailto:adrian.lardies@gmail.com">Email</a>
-
-* <img align="center" alt="Currículum" width="46px" src="https://github.com/adrianlardies/adrianlardies/blob/main/icon_cv.png" />&nbsp;&nbsp;
-  <a href="https://adrianlardies.github.io/portfolio/">Portfolio</a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/adrianlardies/"><img align="center" alt="LinkedIn" width="40px" src="https://github.com/adrianlardies/adrianlardies/blob/main/linkedin.svg" /></a>&nbsp;&nbsp;
+    <a href="mailto:adrian.lardies@gmail.com"><img align="center" alt="Correo" width="42px" src="https://github.com/adrianlardies/adrianlardies/blob/main/mail.svg" /></a>&nbsp;&nbsp;
+    <a href="https://adrianlardies.github.io/portfolio/"><img align="center" alt="Portafolio" width="42px" src="https://github.com/adrianlardies/adrianlardies/blob/main/icon_cv.png" /></a>
+</p>
 
 <br>
 
