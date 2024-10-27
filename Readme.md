@@ -2,14 +2,15 @@
 
 <h1 align="center">👋🏻 Python Developer focused on Data Analysis and Data Science</h1>
 
+<br>
+
 <p align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlardies&layout=compact&theme=default" alt="Most Used Languages" />
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=adrianlardies&show_icons=true&theme=default" alt="GitHub Stats of Adrian" />
 </p
 
 <br>
 
-## Want to know a bit more about me?
+## 💡 Want to know a bit more about me?
 
 <br>
 
@@ -26,7 +27,7 @@ about_me = {
 
 <br>
 
-## Want to get in touch?
+## ✉️ Want to get in touch?
 
 <br>
 
@@ -38,7 +39,7 @@ about_me = {
 
 <br>
 
-## Some of my projects
+## 💻 Some of my projects
 
 <br>
 
