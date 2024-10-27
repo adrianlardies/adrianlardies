@@ -2,6 +2,10 @@
 
 <h1 align="center">👋🏻 Python Developer focused on Data Analysis and Data Science</h1>
 
+<p align="center">
+    Passionate about uncovering insights from data and building meaningful data-driven solutions. Currently, I specialize in Data Science and Machine Learning with Python. I'm always eager to learn and explore new technologies.
+</p>
+
 <br>
 
 <p align="center">
