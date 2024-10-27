@@ -21,7 +21,7 @@
 <br>
 
 ```python
-about_me = {
+my_stack = {
     "code": ["Python 🐍", "R 📊", "JavaScript (Angular) 💻", "PHP 🐘"],
     "data_science": ["pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Spark"],
     "tools": ["Jupyter", "Power BI", "Tableau", "Hadoop"],
