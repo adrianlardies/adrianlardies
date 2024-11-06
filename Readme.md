@@ -2,10 +2,10 @@
     <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg" width="700px"/>
 </p>
 
-<h2 align="center">👋🏻 Python Developer focused on Data Science and Analytics</h1>
+<h2 align="center">👋🏻 Data Engineer focused on Cloud and Data Analytics</h1>
 
 <p align="center">
-    Passionate about uncovering insights from data and building meaningful data-driven solutions. Currently, I specialize in Data Science and Machine Learning with Python. I'm always eager to learn and explore new technologies.
+    Passionate about building and optimizing scalable data solutions. Currently, I specialize in Data Engineering, Cloud Data Solutions, and Python for data processing. I also have a background in Data Science and Machine Learning, always eager to explore new technologies and apply data-driven insights.
 </p>
 
 <br>
