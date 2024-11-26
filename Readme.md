@@ -5,7 +5,7 @@
 <h2 align="center">👋🏻 Data Engineer focused on Cloud and Data Analytics</h1>
 
 <p align="center">
-    Passionate about building and optimizing scalable data solutions Currently, I specialize in Data Engineering, Cloud Data Solutions, and Python for data processing. I also have a background in Data Science, always eager to explore new technologies and apply data-driven insights.
+    Passionate about building and optimizing scalable data solutions. Currently, I specialize in Data Engineering, Cloud Data Solutions, and Python for data processing. I also have a background in Data Science, always eager to explore new technologies and apply data-driven insights.
 </p>
 
 <br>
