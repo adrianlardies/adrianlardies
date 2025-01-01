@@ -5,15 +5,15 @@
 <h2 align="center">👋🏻 Data Engineer | Software Developer 💻 | MLOps 🧩</h1>
 
 <p>
-    Passionate Data Engineer at KPMG, working on projects for clients like Allianz Technology. 
-    My expertise includes designing data pipelines, automating ETL processes, and integrating APIs using 
-    SQL, Python, Hadoop, and Spark. I also apply Machine Learning algorithms and MLOps practices to deliver 
+    Data Engineer at KPMG, working on projects for clients like Allianz Technology. 
+    My expertise includes designing data pipelines, automating ETL processes and integrating APIs using 
+    SQL, Python, Hadoop and Spark. I also apply Machine Learning algorithms and MLOps practices to deliver 
     scalable, data-driven solutions.
 </p>
 <p>
     In addition, I explore web development with the MERN stack (MongoDB, Express, React, Node.js), creating solutions 
     that integrate data engineering and application development. A curious and disciplined professional, I enjoy 
-    continuous learning, contributing to Open Source projects, and sharing insights through Medium write-ups.
+    continuous learning, contributing to Open Source projects and sharing insights through Medium write-ups.
 </p>
 
 <br>
