@@ -2,10 +2,12 @@
     <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg" width="700px"/>
 </p>
 
-<h2 align="center">👋🏻 Data Engineer specialized in MLOps and Cloud Data Solutions</h1>
+<h2 align="center">👋🏻 Data Engineer | Software Developer 💻 | MLOps 🧩</h1>
 
 <p align="center">
-    Passionate about building and optimizing scalable data solutions. I specialize in Data Engineering, MLOps and Cloud Data Solutions, leveraging Python for efficient data processing. With a background in Data Science, I’m always eager to explore new technologies and apply data-driven insights.
+    Passionate Data Engineer at KPMG, working on projects for clients like Allianz Technology. My expertise includes designing data pipelines, automating ETL processes, and integrating APIs using SQL, Python, Hadoop, and Spark. I also apply Machine Learning algorithms and MLOps practices to deliver scalable, data-driven solutions.
+
+In addition, I explore web development with the MERN stack (MongoDB, Express, React, Node.js), creating solutions that integrate data engineering and application development. A curious and disciplined professional, I enjoy continuous learning, contributing to Open Source projects, and sharing insights through Medium write-ups.
 </p>
 
 <br>
@@ -22,12 +24,12 @@
 
 ```python
 my_stack = {
-    "code": ["Python 🐍", "R 📊", "JavaScript (Angular) 💻", "PHP 🐘"],
-    "data_science": ["pandas", "NumPy", "Matplotlib", "Seaborn", "SciPy", "Plotly", "Spark"],
-    "tools": ["Jupyter", "Power BI", "Tableau", "Hadoop"],
-    "databases": ["MySQL", "PostgreSQL", "MongoDB"],
-    "machine_learning": ["Scikit-Learn", "Statsmodels"],
-    "devops_cloud": ["Jenkins", "Docker", "Kubernetes", "AWS", "Azure"]
+    "languages": ["Python 🐍", "JavaScript (React) 💻", "SQL 📋", "TypeScript 🌐"],
+    "data_engineering": ["Spark", "Hadoop", "Databricks", "Airflow"],
+    "libraries": ["Pandas", "NumPy", "Seaborn", "Plotly", "Matplotlib"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB", "Snowflake"],
+    "devops": ["Docker 🐳", "Kubernetes 📦", "Terraform", "CI/CD"],
+    "cloud": ["AWS ☁️", "Azure"]
 }
 ```
 
