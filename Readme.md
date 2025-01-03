@@ -2,18 +2,17 @@
     <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg" width="700px"/>
 </p>
 
-<h2 align="center">👋🏻 Data Engineer | Software Developer 💻 | MLOps 🧩</h1>
+<h2 align="center">👋🏻 Data Engineer | MLOps 🧩 | Backend Developer 💻</h1>
 
-<p>
-    Data Engineer at KPMG, working on projects for clients like Allianz Technology. 
-    My expertise includes designing data pipelines, automating ETL processes and integrating APIs using 
-    SQL, Python, Hadoop and Spark. I also apply Machine Learning algorithms and MLOps practices to deliver 
-    scalable, data-driven solutions.
+<p style="text-align: center;">
+    Data Engineer specializing in data-driven projects for financial institutions and insurance companies, 
+    including clients such as Allianz Technology. My expertise includes designing scalable data pipelines, 
+    automating ETL processes, and integrating APIs to deliver impactful data solutions.
 </p>
-<p>
-    In addition, I explore web development with the MERN stack (MongoDB, Express, React, Node.js), creating solutions 
-    that integrate data engineering and application development. A curious and disciplined professional, I enjoy 
-    continuous learning, contributing to Open Source projects and sharing insights through Medium write-ups.
+<p style="text-align: center;">
+    I consider myself a curious and disciplined professional who enjoys continuous learning, contributing 
+    to Open Source projects, and sharing insights through technical write-ups on Medium. 
+    My focus is on leveraging modern data technologies to drive business impact and efficiency.
 </p>
 
 <br>
@@ -30,10 +29,10 @@
 
 ```python
 my_stack = {
-    "languages": ["Python 🐍", "JavaScript (React) 💻", "SQL 📋", "TypeScript 🌐"],
-    "data_engineering": ["Spark", "Hadoop", "Databricks", "Airflow"],
-    "libraries": ["Pandas", "NumPy", "Seaborn", "Plotly", "Matplotlib"],
-    "databases": ["MySQL", "PostgreSQL", "MongoDB", "Snowflake"],
+    "languages": ["Python 🐍", "SQL 📋", "Bash 💡"],
+    "data_engineering": ["PySpark", "Hadoop", "Kafka", "Databricks", "Airflow"],
+    "libraries": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Matplotlib"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Snowflake"],
     "devops": ["Docker 🐳", "Kubernetes 📦", "Terraform", "CI/CD"],
     "cloud": ["AWS ☁️", "Azure"]
 }
