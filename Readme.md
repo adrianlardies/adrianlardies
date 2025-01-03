@@ -11,7 +11,7 @@
 </p>
 <p style="text-align: center;">
     I consider myself a curious and disciplined professional who enjoys continuous learning, contributing 
-    to Open Source projects, and sharing insights through technical write-ups on Medium. 
+    to Open Source projects and sharing insights through technical write-ups on Medium. 
     My focus is on leveraging modern data technologies to drive business impact and efficiency.
 </p>
 
