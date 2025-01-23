@@ -5,8 +5,8 @@
 <h2 align="center">👋🏻 Data Engineer | MLOps 🧩 | Backend Developer 💻</h1>
 
 <p style="text-align: center;">
-    Data Engineer specializing in data-driven projects for financial institutions and insurance companies, 
-    including clients such as Allianz Technology. My expertise includes designing scalable data pipelines, 
+    Data Engineer specializing in data-driven projects for financial institutions and insurance companies.
+    My expertise includes designing scalable data pipelines, 
     automating ETL processes, and integrating APIs to deliver impactful data solutions.
 </p>
 <p style="text-align: center;">
