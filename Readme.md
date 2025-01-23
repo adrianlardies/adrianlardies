@@ -7,7 +7,7 @@
 <p style="text-align: center;">
     Data Engineer specializing in data-driven projects for financial institutions and insurance companies.
     My expertise includes designing scalable data pipelines, 
-    automating ETL processes, and integrating APIs to deliver impactful data solutions.
+    automating ETL processes and integrating APIs to deliver impactful data solutions.
 </p>
 <p style="text-align: center;">
     I consider myself a curious and disciplined professional who enjoys continuous learning, contributing 
