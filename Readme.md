@@ -2,17 +2,26 @@
     <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg" width="700px"/>
 </p>
 
-<h2 align="center">👋🏻 Data Engineer | MLOps 🧩 | Backend Developer 💻</h1>
+<h2 align="center">👋🏻 IT Consultant | Data Analytics 💻 | Cloud & BI ☁️</h2>
 
-<p style="text-align: center;">
-    Data Engineer specializing in data-driven projects for financial institutions and insurance companies.
-    My expertise includes designing scalable data pipelines, 
-    automating ETL processes and integrating APIs to deliver impactful data solutions.
+<p>
+    Contributing to data-driven projects for financial institutions and insurance companies, 
+    bridging the gap between business needs and technical solutions. 
+    Managing feature development workflows, coordinating cross-functional teams, 
+    and ensuring the efficient delivery of analytics-driven solutions.
 </p>
-<p style="text-align: center;">
-    I consider myself a curious and disciplined professional who enjoys continuous learning, contributing 
-    to Open Source projects and sharing insights through technical write-ups on Medium. 
-    My focus is on leveraging modern data technologies to drive business impact and efficiency.
+
+<p>
+    Specializing in the design and implementation of scalable data analytics solutions, 
+    leveraging cloud platforms, BI tools (Power BI, Tableau), and modern data transformation technologies. 
+    Focused on SQL optimization, data modeling, ETL automation, and cloud analytics to enhance business decision-making.
+</p>
+
+<p>
+    Passionate about cloud technologies, business intelligence, and data strategy. 
+    Continuously learning and staying updated with industry trends. 
+    Actively engaging in the tech community, sharing insights through technical write-ups on Medium, 
+    and collaborating on Open Source projects.
 </p>
 
 <br>
@@ -29,12 +38,13 @@
 
 ```python
 my_stack = {
-    "languages": ["Python 🐍", "SQL 📋", "Bash 💡"],
-    "data_engineering": ["PySpark", "Hadoop", "Kafka", "Databricks", "Airflow"],
-    "libraries": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Matplotlib"],
-    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Snowflake"],
-    "devops": ["Docker 🐳", "Kubernetes 📦", "Terraform", "CI/CD"],
-    "cloud": ["AWS ☁️", "Azure"]
+    "languages": ["Python 🐍", "SQL 📊", "DAX 📋"],
+    "data_analytics": ["Power BI 📈", "Tableau 🎨", "Looker 🔍"],
+    "data_warehousing": ["BigQuery 🚀", "Snowflake ❄️", "Azure Synapse"],
+    "ETL & transformation": ["dbt ⚙️", "Azure Data Factory", "AWS Glue"],
+    "databases": ["PostgreSQL 🗄️", "MongoDB 🍃", "Snowflake ❄️"],
+    "cloud": ["AWS ☁️", "Azure ☁️", "Google Cloud"],
+    "data_strategy": ["Data Governance 🔎", "Data Modeling 🏗️", "Agile (Scrum, ITIL)"]
 }
 ```
 
