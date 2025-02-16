@@ -50,30 +50,21 @@ my_stack = {
 
 <br>
 
-### ✉️ Want to get in touch?
-
-<br>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/adrianlardies/"><img align="center" alt="LinkedIn" width="40px" src="https://github.com/adrianlardies/adrianlardies/blob/main/linkedin.svg" /></a>&nbsp;&nbsp;
-    <a href="mailto:adrian.lardies@gmail.com"><img align="center" alt="Correo" width="42px" src="https://github.com/adrianlardies/adrianlardies/blob/main/mail.svg" /></a>&nbsp;&nbsp;
-    <a href="https://adrianlardies.github.io/portfolio/"><img align="center" alt="Portafolio" width="42px" src="https://github.com/adrianlardies/adrianlardies/blob/main/icon_cv.png" /></a>
-</p>
-
-<br>
-
 ### 💻 Some of my projects
 
 <br>
 
-- **[Space Invaders 2.0 with Python](https://github.com/adrianlardies/space-invaders-python-pygame "App of the classic Space Invaders game with a fresh and renewed look")**  
-  A classic Space Invaders game with a fresh, updated look using Python and Pygame.
+- **[Machine Learning Pipeline for Imbalanced Data: Stroke Prediction](https://github.com/adrianlardies/MachineLearning-project "Machine Learning Project: 🧠 Stroke Prediction")**  
+  This project demonstrates a complete Machine Learning workflow for stroke prediction, including data preprocessing, visualization, model training, evaluation and class balancing techniques.
 
-- **[Feelms - Predict by Emotion](https://github.com/adrianlardies/feelms_predict_by_emotion "A movie recommendation app based on user emotions")**  
-  An emotion-based movie recommendation app built with Streamlit and AWS, utilizing collaborative filtering and machine learning for personalized suggestions.
+- **[Feelms: Emotion-Based Movie Recommendations with Machine Learning and AWS](https://github.com/adrianlardies/feelms_predict_by_emotion "A movie recommendation app based on user emotions")**  
+  Feelms is a movie recommendation app that uses collaborative filtering and machine learning to suggest films based on emotions, integrating AWS-hosted MySQL databases and a Streamlit UI for real-time interaction.
 
-- **[Interactive Escape Room](https://github.com/adrianlardies/escape-room-python "A text adventure wrapped in mystery")**  
-  A text adventure game where you must solve puzzles to escape before time runs out.
+- **[Financial Data Management: Building a MySQL Database for Asset Analysis](https://github.com/adrianlardies/from-data-to-insight "From Data to Insight")**  
+  This project designs and manages a MySQL database to analyze the performance of various assets in response to economic factors, integrating SQL queries, Python automation, and data visualization for financial insights.
+
+- **[Vanguard A/B Testing: Evaluating the Impact of a New UI on Process Completion Rates](https://github.com/adrianlardies/vanguard-ab-test "Vanguard A/B Testing")**  
+  This project evaluates Vanguard's new UI impact on process completion rates using A/B testing, SQL, Python, and statistical analysis, identifying efficiency gains and optimization areas.
 
 - **[Want to see more?](https://github.com/adrianlardies?tab=repositories "GitHub repository")**  
   Explore the rest of my projects and experiments on my GitHub profile.
