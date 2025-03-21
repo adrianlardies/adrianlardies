@@ -38,14 +38,14 @@
 
 ```python
 my_stack = {
-    "languages": ["Python", "SQL", "DAX"],
-    "business_intelligence": ["Power BI", "Tableau", "Looker"],
-    "data_warehousing": ["Snowflake", "BigQuery", "Azure Synapse", "Microsoft Fabric"],
-    "etl_orchestration": ["dbt", "Dataiku", "Apache Airflow", "Azure Data Factory"],
-    "databases": ["PostgreSQL", "Snowflake", "BigQuery", "SQL Server"],
-    "cloud_platforms": ["Azure", "Google Cloud", "AWS"],
-    "analytics_tools": ["Excel", "Seaborn", "Matplotlib"],
-    "ml_basics": ["scikit-learn", "AutoML (Azure/GCP)", "statsmodels"],
+    "languages": ["Python 🐍", "SQL 🧠", "DAX"],
+    "business_intelligence": ["Power BI 📊", "Tableau", "Looker"],
+    "data_warehousing": ["Snowflake ❄️", "BigQuery", "Azure Synapse", "Microsoft Fabric 🧵"],
+    "etl_orchestration": ["dbt", "Dataiku", "Apache Airflow 🌬️", "Azure Data Factory"],
+    "databases": ["PostgreSQL 🐘", "Snowflake", "BigQuery", "SQL Server"],
+    "cloud_platforms": ["Azure ☁️", "Google Cloud", "AWS"],
+    "analytics_tools": ["Excel 📈", "Seaborn", "Matplotlib"],
+    "ml_basics": ["scikit-learn 🤖", "AutoML (Azure/GCP)", "statsmodels"],
 }
 ```
 
