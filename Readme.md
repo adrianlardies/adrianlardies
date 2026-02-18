@@ -2,27 +2,19 @@
     <img src="https://github.com/adrianlardies/adrianlardies/blob/main/hello.svg" width="700px"/>
 </p>
 
-<h2 align="center">👋🏻 IT Consultant | Data Analytics 💻 | Cloud & BI ☁️</h2>
+<h2 align="center">👋🏻 Data & AI Technical Analyst</h2>
 
-<p>
-    Contributing to data-driven projects for financial institutions and insurance companies, 
-    bridging the gap between business needs and technical solutions. 
-    Managing feature development workflows, coordinating cross-functional teams, 
-    and ensuring the efficient delivery of analytics-driven solutions.
-</p>
+<div align="justify">
 
-<p>
-    Specializing in the design and implementation of scalable data analytics solutions, 
-    leveraging cloud platforms, BI tools (Power BI, Tableau), and modern data transformation technologies. 
-    Focused on SQL optimization, data modeling, ETL automation, and cloud analytics to enhance business decision-making.
-</p>
+Contributing to data-driven projects within financial services, focusing on the design and implementation of analytical solutions using Python, SQL and cloud-based technologies.
 
-<p>
-    Passionate about cloud technologies, business intelligence, and data strategy. 
-    Continuously learning and staying updated with industry trends. 
-    Actively engaging in the tech community, sharing insights through technical write-ups on Medium, 
-    and collaborating on Open Source projects.
-</p>
+My work combines data processing, ETL development, and business-oriented analytics. I collaborate with cross-functional teams and stakeholders across different countries, ensuring reliable data pipelines and delivering actionable insights.
+
+I specialize in SQL optimization and data modeling, Python-based data processing and automation, PySpark for distributed data workloads, applied Machine Learning (scikit-learn, foundational deep learning frameworks) and exposing analytical solutions via lightweight APIs.
+
+Currently strengthening my expertise in scalable data processing and production-oriented AI systems, bridging business understanding with technical implementation.
+
+</div>
 
 <br>
 
@@ -32,24 +24,20 @@
 
 <br>
 
-### 💡 Want to know a bit more about me?
-
-<br>
+### 💡 Technical Stack
 
 ```python
 my_stack = {
-    "languages": ["Python 🐍", "SQL 🧠", "DAX"],
-    "business_intelligence": ["Power BI 📊", "Tableau", "Looker"],
-    "data_warehousing": ["Snowflake ❄️", "BigQuery", "Azure Synapse", "Microsoft Fabric 🧵"],
-    "etl_orchestration": ["dbt", "Dataiku", "Apache Airflow 🌬️", "Azure Data Factory"],
-    "databases": ["PostgreSQL 🐘", "Snowflake", "BigQuery", "SQL Server"],
-    "cloud_platforms": ["Azure ☁️", "Google Cloud", "AWS"],
-    "analytics_tools": ["Excel 📈", "Seaborn", "Matplotlib"],
-    "ml_basics": ["scikit-learn 🤖", "AutoML (Azure/GCP)", "statsmodels"],
+    "languages": ["Python", "SQL", "JavaScript"],
+    "data_processing": ["pandas", "NumPy", "PySpark"],
+    "machine_learning": ["scikit-learn", "statsmodels", "foundations of deep learning (PyTorch / TensorFlow)"],
+    "data_visualization": ["matplotlib", "seaborn", "Power BI", "Tableau"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB"],
+    "data_engineering": ["ETL pipelines", "SQL optimization", "data modeling"],
+    "cloud": ["Azure", "AWS (foundational)"],
+    "other": ["Git/GitHub", "REST APIs", "Flask", "Linux & Bash"]
 }
 ```
-
-<br>
 
 ### 💻 Some of my projects
 
