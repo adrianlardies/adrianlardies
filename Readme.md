@@ -6,7 +6,7 @@ I work on data-focused technology projects in the financial sector, with hands-o
 
 My professional focus is **Data Engineering**, currently strengthening my experience with distributed data processing, Databricks and cloud data platforms, with a longer-term interest in the intersection between **Data Engineering and AI systems**.
 
-## 🛠️ Core Stack
+## Core Stack
 
 **Languages**  
 Python · SQL
@@ -17,23 +17,21 @@ Polars · Pandas · ETL · Data Pipelines · Data Quality · Data Validation
 **Engineering**  
 Git · GitHub · Linux · REST APIs · Software Testing
 
-**Currently building with**  
-PySpark · Apache Spark · Databricks · Cloud Data Engineering
+**Current focus**  
+PySpark · Apache Spark · Databricks · Cloud data platforms
 
-## 📌 Selected Work
+## Selected Work
 
 ### [Financial Data Management — Python & MySQL](https://github.com/adrianlardies/from-data-to-insight)
 
 Relational data project using **Python, SQLAlchemy and MySQL** to structure and load financial datasets, enforce data integrity and query data through a relational model.
 
-More Data Engineering projects will be added here as they reach a level where they are reproducible, documented and technically representative of my current work.
-
-## 🎓 Certifications
+## Certifications
 
 - Microsoft Azure Fundamentals - **AZ-900**
 - Microsoft Azure AI Fundamentals - **AI-900**
 - GitHub Foundations - **GH-900**
 
-## 📫 Connect
+## Connect
 
 [LinkedIn](https://www.linkedin.com/in/adrianlardies/) · [Medium](https://medium.com/@adrianlardies)
