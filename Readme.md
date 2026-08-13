@@ -22,7 +22,7 @@ PySpark · Apache Spark · Databricks · Cloud data platforms
 
 ## Selected Work
 
-### [Financial Data Management — Python & MySQL](https://github.com/adrianlardies/from-data-to-insight)
+### [Financial Data Management - Python & MySQL](https://github.com/adrianlardies/from-data-to-insight)
 
 Relational data project using **Python, SQLAlchemy and MySQL** to structure and load financial datasets, enforce data integrity and query data through a relational model.
 
