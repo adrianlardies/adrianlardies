@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Adrián 👋
 
 **Senior IT Consultant @ KPMG | Data Engineering**
@@ -31,9 +30,9 @@ More Data Engineering projects will be added here as they reach a level where th
 
 ## 🎓 Certifications
 
-- Microsoft Azure Fundamentals — **AZ-900**
-- Microsoft Azure AI Fundamentals — **AI-900**
-- GitHub Foundations — **GH-900**
+- Microsoft Azure Fundamentals - **AZ-900**
+- Microsoft Azure AI Fundamentals - **AI-900**
+- GitHub Foundations - **GH-900**
 
 ## 📫 Connect
 
