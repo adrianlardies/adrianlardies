@@ -37,4 +37,3 @@ More Data Engineering projects will be added here as they reach a level where th
 ## 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/adrianlardies/) · [Medium](https://medium.com/@adrianlardies)
-```
